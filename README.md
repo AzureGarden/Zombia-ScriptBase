@@ -1,4 +1,4 @@
-# [REPOSITORY_NAME_HERE]
+# Zombia-ScriptBase
 
 This repository is a public example of my script-base that I've made for Zombia. The script-base is event driven and written in my custom programming style. What originally started as a small experimentation has turned into a massive, fully fleshed out project.
 
