@@ -19,7 +19,7 @@
 
 // Utilities
 import { createEvent } from "./js/Utils";
-import DebugManager from "./js/Debug";
+import DebugManager from "./js/DebugManager";
 
 // Core Modules
 import ScriptProperties from "./js/ScriptProperties";
