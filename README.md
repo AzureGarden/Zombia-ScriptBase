@@ -29,7 +29,7 @@ This script base is built on an event-driven architecture. This means it reacts 
 
 ### Key Components
 
-- Event Handlers: The script features three types of event handlers:
+Event Handlers: The script features three types of event handlers:
 - DOMControl: Manages user interface interactions (mouse movements, clicks, etc.).
 - EntityControl: Reacts to changes in the game world (player health, positions, etc.).
 - RPCControl: Handles communication packets within the game (party updates, chat messages, etc.).
