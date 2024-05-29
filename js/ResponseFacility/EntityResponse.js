@@ -58,8 +58,6 @@ const EntityEventResponseFacility = {
 
     handleServerPlayerCreated: function ({ value }) {
         DebugManager.log("serverPlayerCreated", "Server player created!", value);
-
-        if (alerts.onPlayer) showHint(`Player "${value.name}" has entered your view!`, 3e3);
     },
 
     handleServerPlayerDeleted: function ({ value }) {
